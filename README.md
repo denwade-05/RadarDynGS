@@ -6,4 +6,4 @@ Official repository for **RadarDynGS**, a satellite-to-radar reconstruction fram
 
 **Paper status:** Under submission. Code, pretrained models, and data preparation instructions will be released upon acceptance.
 
-![RadarDynGS overview](assets/intro_tgrs_261112v1.png)
+![RadarDynGS overview](assets/intro_tgrs_261113v1.png)
